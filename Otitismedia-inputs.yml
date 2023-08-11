@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/otitismedia-membrane---primary.py
+inputModule3:
+  class: File
+  path: python/nonsuppurative-otitismedia---primary.py
+inputModule4:
+  class: File
+  path: python/acute-otitismedia---primary.py
+inputModule5:
+  class: File
+  path: python/serous-otitismedia---primary.py
+inputModule6:
+  class: File
+  path: python/mucoid-otitismedia---primary.py
+inputModule7:
+  class: File
+  path: python/otitismedia-unspecified---primary.py
+inputModule8:
+  class: File
+  path: python/otitismedia---primary.py
+inputModule9:
+  class: File
+  path: python/bilateral-otitismedia---primary.py
+inputModule10:
+  class: File
+  path: python/otitismedia-ear---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
